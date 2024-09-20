@@ -1,0 +1,32 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#qrCodeContainer {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#qrCodeImage {
+    margin-top: 20px;
+}
+
+#inputText {
+    width: 300px;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#generateButton {
+    margin-top: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+img{
+padding-left: 37%;
+}
